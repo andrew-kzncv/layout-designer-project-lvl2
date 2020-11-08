@@ -3,7 +3,7 @@ HTML, CSS
 
 Закрепление навыков:
 CSS: Адаптивность, 
-CSS: Gri,
+CSS: Grid,
 SASS: Основы,
 SASS: Программирование PRO
 
